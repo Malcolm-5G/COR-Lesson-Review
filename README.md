@@ -1,4 +1,4 @@
-# 2025/3/3 Day in review
+# 2025/3/3 Day in Review
 
 First Day at COR!
 
