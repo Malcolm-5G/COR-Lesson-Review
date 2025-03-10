@@ -1,7 +1,0 @@
-# 2025/06/03
-
-Review Time
-
-  Today, Mr. Bricker went over a few learning skills. Before you got in too deep about the two new learning skills we learned. he began with a few key pointers that affects the way we learn and remember what we just studied. He emphasizes about the importance of sleep and how deep rest is essential to retain information. This one rule I really struggle with due to my current and balance schedule. He also discussed three forms of learning which are build, redact, and grow.
-One thing Mr. Adam always refrence is you only remember what you study when it’s hard. The learning skills we talked about today was discipline and curiosity. The most important part I took from Mr. Adam, talking about discipline was him saying you should not multitasking and focus on one thing/objective. Also, another important part about discipline is figuring out what are you distracted from? This is important because it helps you realize the extra distractions that you have or you keep around you while studying. 
-  The other learning skills we talked about was curiosity.  Curiosity provides interest in a certain topic, subject object anything. Went curious we tend to question my new things about an object or a certain topic. Today is really informal about gaining discipline and being curious about your work and also learning how to be disciplined and stay less distracted while we study.  
