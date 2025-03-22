@@ -1,0 +1,50 @@
+March 13,2025
+
+Primary reason for the operatng system 
+
+What is a WM-MAchine?
+
+What executes intrustions of the computer?
+CPU
+
+Key 3 Componets fot VM
+  RAM
+  CPU  
+  Storage
+
+Differernt Linux GUI Commands
+  GNOME
+  UNIty 
+  Cinnamon  
+  KDE
+  MATE
+
+Display File Directory 
+  PWD-Present Working Directory
+  Syntax:(PWD)
+
+Differnt Between GUI and CLI
+  Gui-Visual Interface
+  CLI- Comnmand Line (Terminal)
+
+Look up file and GUi 
+  FIle Folder
+
+ABSOLUTE and RELATIVE 
+  Absolute: From the Root/ Beginning (/root)
+  RElative: Current location 
+
+Head 
+  Display first the 10 lines
+  Syntax:(head -n) 
+
+Tail 
+  Display last two lines
+  Syntax: (tail -n)
+
+Color Text
+  Blue-folder
+  White-file
+
+
+
