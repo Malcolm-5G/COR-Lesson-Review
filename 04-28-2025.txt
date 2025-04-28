@@ -2,9 +2,9 @@ Port
   --> Not a Physical   
     --> Providers some form of SERVICE
       Ex: IP Address:Port Number 
-Clients ---> uses dynamic/ephem
+Clients ---> Uses dynamic/ephemeral 
 
-Server/Services ---> Well-known/system/user-registar
+Server/Services ---> Uses Well-known/system/user-registar
 
 Session and Connection 
   Session
@@ -85,5 +85,21 @@ DHCP (Dynamics Host Configuration Protocol)
 
   DHCPv6 = SLACC
               --> Stateless address configuration 
+
+PORT NUMBER LIST
+
+Protocol    Process                                Port
+TCP        FTP-Data (File Transfer Port -- Data)    20
+TCP        FTP (File Transfer Port)                 21
+TCP        SSH (Secure Shell)                       22
+           SCP                                      22
+TCP        Telnet                                   23
+TCP        STMP (Simple Mail)                       25
+TCP/UDP    DNS (Domain Name Server)                 53
+TCP        DHCP (Dynamic Host Configuration Pro)    67/68
+TCP        TFTP (Triva File Transfer Pro)           69
+TCP        HttP                                     80
+TCP        pop3 (Port office Protocol)              110
+TCP        IMAP (Internet Message Access Pro)       143
                       
       
