@@ -1,0 +1,89 @@
+Port 
+  --> Not a Physical   
+    --> Providers some form of SERVICE
+      Ex: IP Address:Port Number 
+Clients ---> uses dynamic/ephem
+
+Server/Services ---> Well-known/system/user-registar
+
+Session and Connection 
+  Session
+    --> Layer 5 
+      --> Multiple Conversation 
+
+  Connection
+    --> Haw 2 sockets or emphemeral 
+
+  Sockets/ Endpoints 
+   
+    --> IP address + Port Number = Socket
+
+  Well known Port #
+    0-1023
+      --> Allocated to server services 
+        --> Used by TCP/UDP
+          --> Controlled and assign by IANA
+  
+  Regrister Port
+    1024-49151 
+    --> User-Regrister
+
+  Dynamic/Ephermral 
+    49152-65535
+
+TCP 3 -Way Handshake 
+  SYN
+  SYN ACK
+  ACK Recieve
+    --> Guaranteed Connection
+
+UDP
+  --> Connectless Oriented Protco
+    --> Faster than TCP
+
+Netstat= Network Statics 
+  --> SYNTAX/COMMAND: Netstat /options
+                      -a --> All Network Statatics
+                      -b --> program used 
+                      -f --> Domain name 
+                      -p --> Proces
+                      -t --> Time
+                      -n --> Numbers 
+                      -l --> listening     
+
+DHCP (Dynamics Host Configuration Protocol)
+  Static  
+    --> Manual 
+      --> DHCP Scope --> Range of IP address
+
+  Dynamic 
+    --> Automatic IP from the DHCP server
+
+  DHCP server assign IP address as a "LEASE"
+
+  DHCP Scope 
+    --> Range of IP Addersses
+
+  DHCP Reservation 
+    --> Ensure a specific computer or device will always have the same IP addrough its IP address
+
+  DHCPs are built into router,switches, and other devices
+
+  DHCP = BROACAST IP Through the network 
+
+  DORA = Broadcast
+
+  DHCP Server
+    --> Broadcast Domian
+
+  DHCP Relay Agent 
+    --> Allows DORA to occur through a DHCP Relay + DHCP Server
+
+  SYNTAX/COMMAND
+    --> ipconfig /renew 
+        ipconfig /release
+
+  DHCPv6 = SLACC
+              --> Stateless address configuration 
+                      
+      
