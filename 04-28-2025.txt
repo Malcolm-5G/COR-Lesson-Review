@@ -101,5 +101,11 @@ TCP        TFTP (Triva File Transfer Pro)           69
 TCP        HttP                                     80
 TCP        pop3 (Port office Protocol)              110
 TCP        IMAP (Internet Message Access Pro)       143
+TCP        IDAP (Lightweight Directory Access Prot) 389
+TCP        HTTPS                                    443  
+TCP        SMB (Server Message Block)               445
+           RDP (Remote Desktop Pro)                 3389
+           SIP                                      5060/5061
+           MYSQL                                    3306
                       
       
