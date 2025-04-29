@@ -1,1 +1,33 @@
+DNS (Domain Name System)
+  --> Translates Domain Name to IP Address 
+Port #53
+Host File/Cache 
+DNS Server
+ DNS Server Order
+  -- Computer Cache  
+      -- Resovler Sever
+          -- DNS Server
+             -- Root Server
+                -- TLD Server 
+                    -- Authortative Server 
 
+Windows --> System 32--> Drives etc -- > Host.File 
+Maps Domain Name --> IP Address = Name Resolution 
+DNS Resolver --> Phonebook 
+Recursive --> DNS Client to --> DNS Server
+Iterative Query --> Referral to another server between local DNS server 
+Fully Qualifed Domain Name   
+    --> FQDN = Host Name + Domain Name 
+
+DNS Records 
+
+A    -->   IPv4
+AAAA -->   IPv6
+CNAME(Canocial) --> Alias for a host --> Domain Name
+SRV --> Services --> Give location of well- know service 
+TXT --> Text --> Simple Text 
+PTR --> Pointer --> IP Add -- to name -- Translation 
+MX --> Mail Exchange --> Mail Routing 
+NS --> Name Server --> Identify Servers 
+SOA --> Start of Authority --> Defines DNS ZONes 
+SZ --> Sub Zones 
