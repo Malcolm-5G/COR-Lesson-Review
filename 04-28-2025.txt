@@ -1,7 +1,11 @@
 Port 
   --> Not a Physical   
     --> Providers some form of SERVICE
+
+Socket
+  --> Colon between the IP and Host number 
       Ex: IP Address:Port Number 
+
 Clients ---> Uses dynamic/ephemeral 
 
 Server/Services ---> Uses Well-known/system/user-registar
