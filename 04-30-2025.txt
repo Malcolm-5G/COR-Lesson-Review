@@ -1,1 +1,24 @@
+SSl (Secure Socket Layer)
+TlS( Transport Layer Security)
+seesion layer 5 
 
+Digital Ceterficate == TLS 
+
+NTP vs PTP
+
+NTP
+  --> #123 
+    --> Network Time Protocol 
+PTP 
+  --> Parcission TImer Protocol  
+    --> Send time Frame through  
+      --> Application == UDP
+
+FTP(File Transfer Protocol)
+  -->20,21
+    Not Secrue Not encyrpted 
+      Browse
+      WGET
+      CURL
+
+SFTP 
